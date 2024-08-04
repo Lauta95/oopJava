@@ -1,6 +1,6 @@
 public class Automovil {
     String fabricante;
     String modelo;
-    String color = "red";
+    String color = "redd";
     double cilindrada;
 }
